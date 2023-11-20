@@ -2,6 +2,15 @@
 
 Analysis of Linkedin Job Data for Data Analyst Positions available in the US and Canada in 2022.
 
+**Tableau Workbook:** (linkedin_job_connected_data_workbook.twbx)[linkedin_job_connected_data_workbook.twbx]
+
+**My Tableau Vizzes for LinkedIn Job Data Analysis:** 
+- https://public.tableau.com/app/profile/hai.ran.zheng/viz/linkedin_job_analysis/LinkedInJobAnalysisSummary
+- https://public.tableau.com/views/linkedin_job_bigram_trigram_analysis/LinkedInJobDescriptionBigramTrigramAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
+
+![Tableau Job Analysis Dashboard](images/tableau_job_analysis_dashboard.png)
+
+## Repository Items
 All Data Exploration and Data Cleaning is done in [linkedin-job-data-exploration.ipynb](linkedin-job-data-exploration.ipynb)
 
 CSV files found in [linkedin-data-analyst-jobs-listings-csv](linkedin-data-analyst-jobs-listings-csv)
