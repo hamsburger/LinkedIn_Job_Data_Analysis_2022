@@ -11,7 +11,7 @@ Analysis of Linkedin Job Data for Data Analyst Positions available in the US and
 ![Tableau Job Analysis Dashboard](images/tableau_job_analysis_dashboard.png)
 
 ## Repository Items
-All Data Exploration and Data Cleaning is done in [linkedin-job-data-exploration.ipynb](linkedin-job-data-exploration.ipynb)
+All ETL operations (Cleaning Data, Exploration, Writing to Bigquery tables) are done in [linkedin-job-data-exploration.ipynb](linkedin-job-data-exploration.ipynb)
 
 CSV files found in [linkedin-data-analyst-jobs-listings-csv](linkedin-data-analyst-jobs-listings-csv)
 
