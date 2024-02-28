@@ -1,4 +1,5 @@
  
+-- Quick null-inspection
 SELECT countif(job_id is not null) as job_id_count, 
        countif(title is not null) as title_count, 
        countif(company is not null) as company_count, 
